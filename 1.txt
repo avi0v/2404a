@@ -1,0 +1,8 @@
+class-
+matplotlib
+pandas
+numpy
+
+hw-
+python cooking 
+sql 
