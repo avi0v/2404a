@@ -6,3 +6,9 @@ numpy
 hw-
 python cooking 
 sql 
+
+extra -
+
+business
+analytics
+startups
